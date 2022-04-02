@@ -1,3 +1,3 @@
-Sololearn
+sololearn
 NDG Linux
 Simplilearn
