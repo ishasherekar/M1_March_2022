@@ -1,3 +1,0 @@
-sololearn
-NDG Linux
-Simplilearn
